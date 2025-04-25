@@ -1,6 +1,7 @@
 # This file uses centimeters as units for non-parametric coordinates.
 
 mtllib Gundam.mtl
+usemtl Diffuse.jpg
 g default
 v -0.318277 24.147608 1.279310
 v -0.201542 24.418945 1.480295
